@@ -1,5 +1,5 @@
 # RAFOUgg
-## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Aadit Kamat, a final year student at the NUS School of Computing
+## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Je suis RAFOU, j'ai 15ans et j'apprends la cyber sécurité et l'informatique.
 
 - 🏢 I'm currently interning at [Atomionics](https://www.sginnovate.com/investments/atomionics) under the SGInnovate programme
 - 👯 I'm happy to collaborate on any web development or data science project
