@@ -8,12 +8,12 @@
      - Discord: RAFOU#8331
      - Instagram: rafou.b38
 
-###🌍 Résaux Sociaux:
+🌍 ###Résaux Sociaux:
 <p align="left">
 <a href="https://discordapp.com/users/458674191911092226"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord profile" height="30" width="40" /></a>
 </p>
 
-###💬 Languages and Tools
+💬 ###Languages and Tools
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="Python" height="30" width="40" />
