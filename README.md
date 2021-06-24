@@ -11,7 +11,7 @@
 **🌍 Résaux Sociaux:**
 <p align="left">
 <a href="https://discordapp.com/users/458674191911092226"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord profile" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/458674191911092226"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Discord profile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rafou.b38/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Discord profile" height="30" width="40" /></a>
      
 </p>
 
