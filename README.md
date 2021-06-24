@@ -23,16 +23,9 @@
 
 **🐱 Mes preformances:** 
 
-> 🏆 575 Contributions in the Year 2020
- > 
-> 📦 163.2 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
+> 🏆 200 Membres sur mon Discord !
 
+> 📦 Tous les logiciels que vous voulez, je les ai ! 
+ 
 <!--END_SECTION:waka-->
 -----
