@@ -1,14 +1,14 @@
 # RAFOUgg
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Je suis RAFOU, j'ai 15ans et j'apprends la cyber sécurité et l'informatique.
 
-- 🏢 I'm currently interning at [Atomionics](https://www.sginnovate.com/investments/atomionics) under the SGInnovate programme
-- 👯 I'm happy to collaborate on any web development or data science project
-- 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
-- 📫 How to reach me: 
-     - Personal: aadit.k12@gmail.com
-     - School: aadit_kamat@u.nus.edu
+- 🏢 J'apprends actuellement le python et le pentesting.
+- 👯 Si vous voulez me contacter pour faire des projets commun.
+- 💬 Vous pouvez me poser des questions à propos de mes projets si vous en avez besoins.
+- 📫 Comment me contacter: 
+     - Discord: RAFOU#8331
+     - Instagram: rafou.b38
 
-### Social media profiles
+### Profiles
 <p align="left">
 <a href="https://twitter.com/@K12Aadit"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://facebook.com/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
