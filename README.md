@@ -1,5 +1,5 @@
 <p align="left">
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="max-width:100%;"></a></code> 
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"><img height="25" 
 </p>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c1d3a758ec41b3eed6fa19b75347f5eb7ae9bce44a523a9a9e36dd5c9cce67ba/68747470733a2f2f646973636f72642e6339392e6e6c2f7769646765742f7468656d652d342f3739363838393032333838303439353130352e706e67"><img src="https://camo.githubusercontent.com/c1d3a758ec41b3eed6fa19b75347f5eb7ae9bce44a523a9a9e36dd5c9cce67ba/68747470733a2f2f646973636f72642e6339392e6e6c2f7769646765742f7468656d652d342f3739363838393032333838303439353130352e706e67" data-canonical-src="https://discord.c99.nl/widget/theme-4/796889023880495105.png" style="max-width:100%;"></a>
