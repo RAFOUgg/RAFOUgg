@@ -8,6 +8,8 @@
 <p align="left"> 
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;"></a></code>  -  
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></a></code>  -  
+<code><a target="_blank" rel="noopener noreferrer" href="https://imagizer.imageshack.com/img923/9607/CzCF6E.png"><img height="25" src="https://imagizer.imageshack.com/img923/9607/CzCF6E.png" style="max-width:100%;"></a></code>  -  
+
 
 </p>
 
