@@ -1,6 +1,6 @@
 <!-- INFO -->
 
- <a target="_blank" rel="noopener noreferrer" href="https://discordapp.com/users/458674191911092226"><img src="https://imagizer.imageshack.com/img923/5196/FLsu6A.png" alt="Discord Profile" style="max-width:100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://discordapp.com/users/458674191911092226"><img src="https://imagizer.imageshack.com/img923/9927/w7zBKX.png" alt="Discord Profile" style="max-width:100%;"></a>
 </p><br><br><br>
  
 <!-- LANGUAGE -->
