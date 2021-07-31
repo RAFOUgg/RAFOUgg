@@ -11,8 +11,7 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://imagizer.imageshack.com/img923/9607/CzCF6E.png"><img height="25" src="https://imagizer.imageshack.com/img923/9607/CzCF6E.png" style="max-width:100%;"></a></code>  -  
 <code><a target="_blank" rel="noopener noreferrer" href="https://imagizer.imageshack.com/img922/5187/Egf424.png"><img height="25" src="https://imagizer.imageshack.com/img922/5187/Egf424.png" style="max-width:100%;"></a></code>  -  
 <code><a target="_blank" rel="noopener noreferrer" href=" https://imagizer.imageshack.com/img922/2237/T3FSMH.png
-"><img height="25" src=" https://imagizer.imageshack.com/img922/2237/T3FSMH.png
-" style="max-width:100%;"></a></code>  -  
+"><img height="25" src=" https://imagizer.imageshack.com/img922/2237/T3FSMH.png" style="max-width:100%;"></a></code>  -  
  
 </p>
 
